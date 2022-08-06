@@ -1,6 +1,6 @@
 # ./buildash
 
-  ![icon](icon.svg)
+  ![icon](https://raw.githubusercontent.com/buildash/.github/main/profile/icon.svg)
 
 Hi!
 
