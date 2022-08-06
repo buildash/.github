@@ -1,8 +1,6 @@
 
 # ./buildash
 
-  ![icon](icon.svg)
-
 Hi!
 
 The Buildash project aims to develop small and functional applications that can be completed in a short time.
