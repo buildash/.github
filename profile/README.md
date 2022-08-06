@@ -1,6 +1,6 @@
 # ./buildash
 
-  ![icon](../icon.svg)
+  ![icon](icon.svg)
 
 Hi!
 
